@@ -1,1 +1,1 @@
-Fix bug and update documentation for Ticket #101.
+Finalizing Phase 2. Fixing Ticket #101 and confirming PR #1.
